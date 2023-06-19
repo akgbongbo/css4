@@ -1,0 +1,100 @@
+body{
+    background-image: url(img/sky\ 2.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}   
+
+.card{
+    width: 400px;
+    height: 410px;
+    margin: 20% 25% 25% 35%;
+    border-radius: 10px;
+   
+}
+
+.box1{
+    height: 150px;
+    border:0.5px solid white;
+    background-image: url(../img/spiral.jfif);
+    border-radius: 10px 10px 0 0 ;
+   
+}
+
+img{
+    border-radius: 100%;
+}
+
+.profile{
+    margin-left: 35%;
+    margin-top: 20%;
+    size: 100px;
+
+}
+
+.box2{
+    background-color: white;
+    height: 250px;
+   
+}
+
+.name{
+    margin-top: 0;
+    font-size: larger;
+    font-weight: 800;
+    padding-top: 70px;
+    text-align: center;
+
+}
+
+.age{
+    color: rgb(132, 121, 121);
+}
+
+.country{
+    color: rgb(122, 115, 115);
+    padding-top: 0;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+hr{
+    margin: 0;
+    padding: 0;
+}
+
+.box3{
+    background-color: white;
+    padding-top: 0;
+    margin-top: 0;
+    border-radius: 0 0 10px 10px;
+    }
+
+    a, li, ul{
+              text-decoration: none;
+              display: inline;
+        
+    }
+
+/*    h3{
+        display: inline-block;
+        flex-wrap: row;
+        margin-left: 80px;
+    }
+
+   
+
+    */
+
+    .block1, .block2, .block3{
+        display:inline-block;
+        margin-left: 50px;
+        text-align: justify;
+    }
+
+    h5{
+        color: grey;
+        justify-content: center;
+        
+    }
